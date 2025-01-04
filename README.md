@@ -6,8 +6,8 @@ Hi! I'm Carlos, a 19 y.o. spaniard. Here's what I do:
 ## Some Programming Languages I used (at least once)
 - ☕ Java
 - ©️ C, C++, C#
-- 🌐 HTML, CSS, JS (also Node.js)
-- 🐍 Python, Bython
+- 🌐 HTML, CSS, JS
+- 🐍 Python
 
 *I once tried assembly. Not ever again.*
 ## Projects I've worked on
