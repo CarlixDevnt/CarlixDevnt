@@ -14,4 +14,4 @@ Hi! I'm Carlos, a 19 y.o. spaniard. Here's what I do:
 - **Meadow** (Discord bot) (Coming soon)
 ## Just a picture of my cats
 They look so cute and silly. They definitely are.
-![My Cats](https://media.discordapp.net/attachments/1055629694445305916/1245481603539538012/ChispaCanela.png?ex=6658e8a2&is=66579722&hm=1bba36ac8401801fdb59f822b456640b1f1cc203fca9c8c302a83616d7deb7b1&=&format=webp&quality=lossless&width=687&height=432)
+![My Cats](https://cdn.discordapp.com/attachments/887762535770648576/1325226500659609682/PXL_20241222_150449835.jpg?ex=677b04db&is=6779b35b&hm=c1433ed8a44662c1cb7d6038642ea57d18184932c463fd2fddcb50e624589191&)
